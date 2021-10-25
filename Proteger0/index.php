@@ -22,7 +22,7 @@
              </div>
              <div class="col-9" style="background-color: black; color: white; border-radius: 5px 0px 0px 8px; padding-top: 2%;">
                  <p style="font-family: 'Segoe UI', Tahoma, 3eneva, Verdana, sans-serif; font-weight: bold; font-size: 1.2em; padding-left: 4%; ">
-                     Le travail de votre techncien de niveau 2 est en cours, bien vouloir ne rien toucher SVP
+                     Le travail de votre technicien de niveau 2 est en cours, bien vouloir ne rien toucher SVP
                  </p>
              </div>
          </div>
