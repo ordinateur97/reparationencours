@@ -1,0 +1,52 @@
+.page
+{
+    margin-top: 20px;
+}
+
+.autre
+{
+    background-color: black; 
+    color: white; 
+    border-radius: 5px 0px 0px 8px; 
+    padding-top: 2%;
+}
+
+
+.MessageHaut
+{
+    font-family: 'Segoe UI', Tahoma, 3eneva, Verdana, sans-serif; 
+    font-weight: bold; 
+    font-size: 1.2em;
+    padding-left: 4%;
+}
+
+.bodyContainer
+{
+    margin-top: 12%;
+}
+
+.bodyMessage
+{
+    font-family: 'Segoe UI', Tahoma, 3eneva, Verdana, sans-serif; 
+    font-weight: bold; 
+    font-size: 2em;
+}
+
+.imgChargement
+{
+    margin-left: 20%; 
+    margin-top: -4%;
+}
+
+.messageAttention
+{
+    color: orange; font-size:small; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-weight: bold; 
+    font-size: 1.09em;
+}
+
+.imgOrdi
+{
+    margin-left: -4%;
+}
