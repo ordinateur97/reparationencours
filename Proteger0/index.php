@@ -47,7 +47,7 @@
                  </p>
              </div>
              
-             <div class="col col-2" width="65%" height="65%" style="margin-left: -3%; margin-top: 8%">
+             <div class="col col-2" width="65%" height="65%" style="margin-left: 1%; margin-top: 8%">
                  <img src="Images/Ordinateur.gif">
                </div>
              </div>
