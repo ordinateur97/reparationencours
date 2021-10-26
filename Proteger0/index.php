@@ -33,7 +33,7 @@
                  
              </div>
              <div class="col-7">
-                 <p class="text-center" style="font-family: 'Segoe UI', Tahoma, 3eneva, Verdana, sans-serif; font-weight: bold; font-size: 1.7em;">
+                 <p class="text-center" style="font-family: 'Segoe UI', Tahoma, 3eneva, Verdana, sans-serif; font-weight: bold; font-size: 1.5em;">
                      La réparation de votre ordinateur est en cours
                  </p>
                  <p style="color: gray; font-size:small; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 1em;" >
